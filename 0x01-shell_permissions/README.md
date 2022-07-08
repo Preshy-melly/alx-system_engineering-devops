@@ -1,1 +1,1 @@
-task 0-switches the current user to the user betty
+task 2- creates a script that prints all the groups the current user is part of
