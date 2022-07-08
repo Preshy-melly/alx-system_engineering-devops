@@ -1,1 +1,1 @@
-script that changes the owner of the file hello to the user betty
+task 0-switches the current user to the user betty
